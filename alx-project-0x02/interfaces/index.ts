@@ -17,5 +17,12 @@ export interface ButtonProps {
   children: React.ReactNode;
   onClick?: () => void;
 }
+// ✅ Interface pour les posts
+export interface PostProps {
+  title: string;
+  content: string;
+  userId: number;
+}
+
 
 
