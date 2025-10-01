@@ -1,1 +1,1 @@
-ok
+Next.js Project Setup and Basics
